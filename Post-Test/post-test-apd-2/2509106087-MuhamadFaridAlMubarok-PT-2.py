@@ -15,3 +15,4 @@ menu_makanan = {
     "Nasi padang": 10,
 }
 
+# Hitung total harga makanan
