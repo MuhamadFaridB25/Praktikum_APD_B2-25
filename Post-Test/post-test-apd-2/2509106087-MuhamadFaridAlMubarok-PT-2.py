@@ -14,5 +14,3 @@ menu_makanan = {
     "Mie Ayam": 8,
     "Nasi padang": 10,
 }
-
-# Hitung total harga makanan
